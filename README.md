@@ -4,8 +4,11 @@ Hey-Buddy
 My first test repository
 
 Objectives:
-1.  Use github
-2.  Clone
-3.  Push
-4.  How to recover a past file
-5.  Fork vs. Branch
+
+Use github
+x redo the last commit message
+unstage a file
+x Clone
+Push
+How to recover a past file
+Fork vs. Branch
