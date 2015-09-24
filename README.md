@@ -13,3 +13,5 @@ My first test repository
 * Fork vs. Clone
 * Clone   
 
+
+test changes in remote and local repos
